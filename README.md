@@ -1,4 +1,28 @@
-### Hi there 👋
+
+
+👋 Hi, I’m Abhijeet Singh
+
+#me 👌
+
+- 👨‍💻 #programmer,
+
+- 🧐 #curious,
+
+- 🌏 #Traveller, 
+
+- #mobile #developer on an endless #journey. 
+
+- 🔭 Currently working on Native Android Development
+
+- 👀 Interested in Native iOS Development, React Native Development
+
+- 👯 Looking to collaborate on Android Projects
+
+- 📫 Reach me at : redefinedabhi2@gmail.com
+
+Lets #connect 🔗 
+
+Tap #follow ASAP
 
 <!--
 **thatsabhi22/thatsabhi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
