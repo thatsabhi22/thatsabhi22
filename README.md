@@ -10,11 +10,11 @@
 
 - 🌏 #Traveller, 
 
-- #mobile #developer on an endless #journey. 
+- #mobile #developer on an #journey. 
 
 - 🔭 Currently working on Native Android Development
 
-- 👀 Interested in Native iOS Development, Hybrid Mobile Development (React Native & Flutter)
+- 👀 Interested in Native iOS Development
 
 - 👯 Looking to collaborate on Android Projects
 
