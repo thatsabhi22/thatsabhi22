@@ -10,7 +10,7 @@
 
 - 🌏 #Traveller, 
 
-- #mobile #developer on an #journey. 
+- #mobile #developer on a #journey.
 
 - 🔭 Currently working on Native Android Development
 
