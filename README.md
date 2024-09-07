@@ -12,9 +12,9 @@
 
 - #mobile #developer on a #journey.
 
-- 🔭 Currently working on Native Android Development
+- 🔭 Working on Native Android Development
 
-- 👀 Interested in Native iOS Development
+- 👀 Also Interested in Native iOS Development
 
 - 👯 Looking to collaborate on Android Projects
 
