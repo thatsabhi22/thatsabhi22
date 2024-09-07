@@ -16,8 +16,6 @@
 
 - 👀 Also Interested in Native iOS Development
 
-- 👯 Looking to collaborate on Android Projects
-
 - 📫 Reach me at : redefinedabhi2@gmail.com
 
 Lets #connect 🔗 
