@@ -16,8 +16,6 @@
 
 - 👀 Also Interested in Native iOS Development
 
-- 📫 Reach me at : redefinedabhi2@gmail.com
-
 Lets #connect 🔗 
 
 Tap #follow ASAP
